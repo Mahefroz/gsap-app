@@ -1,0 +1,32 @@
+/* body {
+  background-color: white;
+} */
+.container {
+  align-items: center;
+  margin-top: 20%;
+  margin-bottom: 20%;
+  /* left: 40%; */
+}
+.square {
+  width: 200px;
+  margin-left: 40%;
+  margin-top: 20%;
+  padding: 50px;
+  align-items: center;
+  justify-content: center;
+  /* height: 40px; */
+  background-color: black;
+  color: yellow;
+  font-weight: 1000;
+}
+.txt {
+  /* width: 100px; */
+  /* height: 10px; */
+  align-items: center;
+  padding-left: 50%;
+  font-size: large;
+  font-weight: 1000;
+  color: yellow;
+  /* margin-left: 50%; */
+  justify-content: center;
+}
